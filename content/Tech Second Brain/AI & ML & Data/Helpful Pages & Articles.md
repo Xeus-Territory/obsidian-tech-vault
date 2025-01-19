@@ -85,6 +85,7 @@ tags:
 - [Medium - Apache Airflow Overview](https://medium.com/@vutrinh274/apache-airflow-overview-61c939abe126)
 - [Blog - Change Data Capture (CDC)](https://luminousmen.com/post/change-data-capture/)
 - [Blog - Data Lake vs Data Warehouse](https://luminousmen.com/post/data-lake-vs-data-warehouse)
+- [ML4Devs - Scalable Efficient Big Data Pipeline Architecture](https://www.ml4devs.com/en/articles/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud/)
 ## Awesome Repositories
 
 - [awesome-bigdata](https://github.com/oxnr/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
